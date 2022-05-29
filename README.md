@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @learkonas
-- 👀 I’m interested in <b>building PWAs</b>
-- 🌱 I’m currently learning ^
-- 💞️ I’m looking to collaborate on ^
+- 🌱 I’m currently learning JS
 - 📫 How to reach me leo@leonasskau.co.uk
 
 <!---
