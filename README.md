@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @learkonas
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m learko
 - 📫 How to reach me leo@leonasskau.co.uk
 
 <!---
