@@ -1,4 +1,4 @@
-- 👋 Hi, I’m learko
+- 👋 Hi, I’m Leo
 - 📫 How to reach me leo@leonasskau.co.uk
 
 <!---
