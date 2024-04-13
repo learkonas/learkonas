@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo
-- 📫 How to reach me leo@leonasskau.co.uk
+- 📫 How to reach me: leonasskau.co.uk
 
 <!---
 learkonas/learkonas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
